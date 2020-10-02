@@ -1,5 +1,5 @@
 {
-  "name": "rsapp-task-template",
+  "name": "human-readable-number",
   "version": "1.0.0",
   "description": "Template for rsapp task",
   "main": "index.js",
